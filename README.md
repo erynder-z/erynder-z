@@ -1,7 +1,7 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erynder-z&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erynder-z&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erynder-z&theme=calm)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erynder-z&theme=dracula)](https://git.io/streak-stats)
 
 
 <!--
