@@ -1,8 +1,8 @@
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erynder-z&theme=react)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erynder-z&theme=react)](https://github.com/erynder-z?tab=repositories)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erynder-z&theme=react)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erynder-z&theme=react)](https://github.com/erynder-z?tab=repositories)
 
 
 <!--
