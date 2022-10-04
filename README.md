@@ -1,5 +1,5 @@
-- :wave: Hi, I’m Stefam.
+- :wave: Hi, I’m Stefan.
 - 🌱 I’m currently learning the MERN stack.
 - :eyes: I’m interested in coding, cycling, growing.
 - :revolving_hearts: I love creating web applications with minimalistic design.
-- 📫 How to reach me: Email
+- 📫 How to reach me: Email.
